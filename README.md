@@ -1,1 +1,1 @@
-# simpleairquality_blynk
+# Simple Air Quality Monitor with BLYNK
